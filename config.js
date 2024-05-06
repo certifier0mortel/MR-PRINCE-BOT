@@ -12,7 +12,8 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["33775804415", "꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+", false],
   [''], 
   [''] 
 ]
@@ -90,8 +91,8 @@ global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
 global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
 global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
-global.img16 = 'https://i.imgur.com/JpYfcH0.jpeg'
-global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'
+global.img16 = 'https://imgur.com/a/Niu47N6'
+global.img17 = 'https://imgur.com/a/ipiPtnY'
 //💌------------------------------------------💌
 
 
@@ -120,16 +121,18 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
+global.botname = '†♡๖ۣۣۜҚằώẵî⚧۞'
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.packname = '꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+' 
+global.author = '꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.menuvid = 'https://imgur.com/a/CKg4kGP'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://imgur.com/a/T2ZFr61'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
